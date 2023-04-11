@@ -28,5 +28,6 @@ int main()
             j -= 96;
             std::cout << j;
         }
+        std::cout <<" ";
     }
 }
